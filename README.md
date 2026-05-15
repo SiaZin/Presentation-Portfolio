@@ -1,5 +1,5 @@
 # Presentation-Portfolio
-Academic presentations and visual research summaries created in PowerPoint, Canva, and Prezi. Focus on structured storytelling, complex topics explanation, and clear visual communication.
+These are my academic presentations and visual research summaries created in PowerPoint, Canva, and Prezi. Focus on structured storytelling, complex topics explanation, and clear visual communication.
 
 This repository contains a small collection of academic presentations created during my university studies. The goal of these projects was to present complex topics in a clear, structured, and visually engaging way.
 
